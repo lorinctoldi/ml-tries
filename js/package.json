@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "brainjs": "^0.7.4",
+    "lodash": "^4.17.21",
+    "natural": "^6.10.4",
+    "node-tfidf": "^0.0.2"
+  }
+}

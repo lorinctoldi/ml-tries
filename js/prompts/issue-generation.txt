@@ -1,0 +1,25 @@
+Issue List Items Generation Prompt
+
+------------------------------------------------------------------------
+
+(ChatGPT / Gemini)
+
+------------------------------------------------------------------------
+
+Prompt:
+"Please analyze the following issues that occured during an audit. After careful analyzation, generate (x:int) amount of issues that do NOT include the issues we have provided. Provide the answer in the correct JSON format."
++
+[issue_list:file]
+
+------------------------------------------------------------------------
+
+Experience:
+
+(ChatGPT)
+
+x = 10, 
+issue_list = issue_list.json
+
+The answer was accurate and relevant. There were no need for additional prompts or corrigation.
+
+Response format:

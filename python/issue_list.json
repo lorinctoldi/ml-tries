@@ -1,0 +1,162 @@
+[
+  {
+    "Issue ID": "2-1",
+    "Issue Type": "Data Breach",
+    "Issue Severity": "High",
+    "Description Title": "Unsecured database exposed sensitive information",
+    "Description": "During the audit, it was discovered that one of the databases containing sensitive information was left unsecured, potentially exposing this data to unauthorized access and breaches.",
+    "Risk/Impact": null,
+    "Recommendation": null,
+    "Owner": "ALC Open",
+    "Status": "Open",
+    "Sign-offs": {
+      "Preparer": null,
+      "Detail Reviewer": null,
+      "General Reviewer": null
+    }
+  },
+  {
+    "Issue ID": "2-2",
+    "Issue Type": "Compliance Violation",
+    "Issue Severity": "Medium",
+    "Description Title": "Failure to adhere to regulatory compliance standards",
+    "Description": "The audit revealed instances where the company failed to adhere to specific regulatory compliance standards, which could result in legal repercussions and financial penalties.",
+    "Risk/Impact": null,
+    "Recommendation": null,
+    "Owner": "ALC Open",
+    "Status": "Open",
+    "Sign-offs": {
+      "Preparer": null,
+      "Detail Reviewer": null,
+      "General Reviewer": null
+    }
+  },
+  {
+    "Issue ID": "2-3",
+    "Issue Type": "Weak Password Policy",
+    "Issue Severity": "Medium",
+    "Description Title": "Inadequate password complexity and rotation policy",
+    "Description": "The audit identified weaknesses in the company's password policy, including inadequate complexity requirements and infrequent password rotation, increasing the risk of unauthorized access to systems and data.",
+    "Risk/Impact": null,
+    "Recommendation": null,
+    "Owner": "ALC Open",
+    "Status": "Open",
+    "Sign-offs": {
+      "Preparer": null,
+      "Detail Reviewer": null,
+      "General Reviewer": null
+    }
+  },
+  {
+    "Issue ID": "2-4",
+    "Issue Type": "Lack of Employee Training",
+    "Issue Severity": "Low",
+    "Description Title": "Insufficient cybersecurity awareness training",
+    "Description": "The audit highlighted a lack of adequate cybersecurity awareness training among employees, increasing the likelihood of falling victim to social engineering attacks and other security threats.",
+    "Risk/Impact": null,
+    "Recommendation": null,
+    "Owner": "ALC Open",
+    "Status": "Open",
+    "Sign-offs": {
+      "Preparer": null,
+      "Detail Reviewer": null,
+      "General Reviewer": null
+    }
+  },
+  {
+    "Issue ID": "2-5",
+    "Issue Type": "Network Vulnerabilities",
+    "Issue Severity": "High",
+    "Description Title": "Unpatched network vulnerabilities",
+    "Description": "The audit identified several unpatched vulnerabilities in the company's network infrastructure, leaving it susceptible to exploitation by malicious actors and cyber attacks.",
+    "Risk/Impact": null,
+    "Recommendation": null,
+    "Owner": "ALC Open",
+    "Status": "Open",
+    "Sign-offs": {
+      "Preparer": null,
+      "Detail Reviewer": null,
+      "General Reviewer": null
+    }
+  },
+  {
+    "Issue ID": "2-6",
+    "Issue Type": "Inadequate Incident Response Plan",
+    "Issue Severity": "Medium",
+    "Description Title": "Lack of comprehensive incident response plan",
+    "Description": "The audit revealed the absence of a comprehensive incident response plan, which is essential for effectively mitigating and managing cybersecurity incidents and breaches.",
+    "Risk/Impact": null,
+    "Recommendation": null,
+    "Owner": "ALC Open",
+    "Status": "Open",
+    "Sign-offs": {
+      "Preparer": null,
+      "Detail Reviewer": null,
+      "General Reviewer": null
+    }
+  },
+  {
+    "Issue ID": "2-7",
+    "Issue Type": "Vendor Security Risk",
+    "Issue Severity": "Medium",
+    "Description Title": "Unaddressed vendor security risks",
+    "Description": "The audit identified unaddressed security risks associated with certain vendors, posing a potential threat to the confidentiality, integrity, and availability of company data and systems.",
+    "Risk/Impact": null,
+    "Recommendation": null,
+    "Owner": "ALC Open",
+    "Status": "Open",
+    "Sign-offs": {
+      "Preparer": null,
+      "Detail Reviewer": null,
+      "General Reviewer": null
+    }
+  },
+  {
+    "Issue ID": "2-8",
+    "Issue Type": "Encryption Weaknesses",
+    "Issue Severity": "Medium",
+    "Description Title": "Weaknesses in data encryption practices",
+    "Description": "The audit revealed weaknesses in the company's data encryption practices, potentially exposing sensitive information to unauthorized access and data breaches.",
+    "Risk/Impact": null,
+    "Recommendation": null,
+    "Owner": "ALC Open",
+    "Status": "Open",
+    "Sign-offs": {
+      "Preparer": null,
+      "Detail Reviewer": null,
+      "General Reviewer": null
+    }
+  },
+  {
+    "Issue ID": "2-9",
+    "Issue Type": "Physical Security Vulnerabilities",
+    "Issue Severity": "High",
+    "Description Title": "Unaddressed physical security vulnerabilities",
+    "Description": "The audit uncovered unaddressed physical security vulnerabilities, such as unauthorized access points and lack of surveillance measures, compromising the overall security posture of the organization.",
+    "Risk/Impact": null,
+    "Recommendation": null,
+    "Owner": "ALC Open",
+    "Status": "Open",
+    "Sign-offs": {
+      "Preparer": null,
+      "Detail Reviewer": null,
+      "General Reviewer": null
+    }
+  },
+  {
+    "Issue ID": "2-10",
+    "Issue Type": "Insufficient Logging and Monitoring",
+    "Issue Severity": "Medium",
+    "Description Title": "Lack of robust logging and monitoring mechanisms",
+    "Description": "The audit identified a lack of robust logging and monitoring mechanisms, hindering the detection and response to security incidents in a timely manner.",
+    "Risk/Impact": null,
+    "Recommendation": null,
+    "Owner": "ALC Open",
+    "Status": "Open",
+    "Sign-offs": {
+      "Preparer": null,
+      "Detail Reviewer": null,
+      "General Reviewer": null
+    }
+  }
+]
